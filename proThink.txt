@@ -1,0 +1,13 @@
+Story 1
+
+1. Send form information to Server
+
+2. Translate information into Mongoose Model
+
+3. Save the information to MongoDb
+
+4. Retrieve information from MongoDb and write it in api/entries
+
+5. Fetch from api/entries and display on Facts
+
+6. 
